@@ -9,9 +9,6 @@
 title: Devdanlevy
 email: devdanlevy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This site is meant to introduce Devdanlevy.  It will include links to resume,
-  github, twitter, and a blog detailing the process of breaking into the tech industry
-  as a second career.  It will also include musings on life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://devdanlevy.com" # the base hostname & protocol for your site
 twitter_username: devdanlevy1
