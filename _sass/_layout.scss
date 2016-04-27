@@ -210,12 +210,13 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: #99cc00;
 }
 
 .post-link {
     display: block;
     font-size: 24px;
+
 }
 
 
@@ -231,6 +232,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+
 
     @include media-query($on-laptop) {
         font-size: 36px;
