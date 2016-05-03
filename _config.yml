@@ -10,7 +10,7 @@ title: Devdanlevy
 email: devdanlevy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://devdanlevy.com" # the base hostname & protocol for your site
+# url: "http://devdanlevy.com" # the base hostname & protocol for your site
 twitter_username: devdanlevy1
 github_username:  devdanlevy2
 linkedin_username: daniel-levy-4758a7115
