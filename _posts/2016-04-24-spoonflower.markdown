@@ -7,9 +7,9 @@ categories: jekyll update
 # SpoonBoards
 
 ## Introduction
-<a href="http://www.spoonflower.com">Spoonflower</a> is a print-on-demand company that provides custom-printed fabric, wallpaper and gift wrap. Users can search through hundreds of thousands of incredible designs, but that much variety can be a little overwhelming --  especially when you don’t have a tool that can help you easily categorize your top picks.
+<a href="http://www.spoonflower.com">Spoonflower</a> is a print-on-demand company that provides custom-printed fabric, wallpaper and gift wrap. Users can search through hundreds of thousands of designs, but that much variety can be a little overwhelming --  especially when you don’t have a tool that can help you easily categorize your top picks.
 
-**SpoonBoards** is a Ruby on Rails app that lets users to browse the Spoonflower marketplace and create unique, curated collections by adding designs to boards. Feel free to explore **SpoonBoards** on <a href="https://spoonboards.herokuapp.com"> Heroku. </a>
+**SpoonBoards** is a Ruby on Rails app that allows users to browse the Spoonflower marketplace and create unique, curated collections by adding designs to boards. <a href="https://spoonboards.herokuapp.com"> Heroku. </a>
 
 ## Features & Functionality
 
@@ -34,12 +34,6 @@ The board has several features in the hamburger drawer menu, including the abili
 ![Screenshot 5](https://s3-us-west-2.amazonaws.com/codepen-assets-cs-training/Screenshot+5.jpg)
 
 ![Screenshot 6](https://s3-us-west-2.amazonaws.com/codepen-assets-cs-training/Screenshot+6.jpg)
-
-## Future Targets
-
-Not only is SpoonBoards an efficient organizational tool, we’re adding another avenue through which Spoonflower community members can interact with each other. As this app grows, developing the social media aspect would be a big priority.
-
-We also hope that by making board samplers easy to purchase, we give users the ability plan out their project needs and generate more conversions.
 
 ## Additional Information
 
